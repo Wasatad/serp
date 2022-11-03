@@ -266,16 +266,16 @@ export default {
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 14px;
+        gap: 10px;
         width: 100%;
 
         @media (max-width: 500px) {
           font-size: 12px;
-          max-width: 200px;
+          max-width: 250px;
         }
 
         label {
-          // margin-left: 8px;
+          margin-left: 6px;
 
           cursor: pointer;
         }

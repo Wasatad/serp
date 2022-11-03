@@ -122,7 +122,8 @@ export default {
       },
       spaceBetween: 100,
       speed: 500,
-      simulateTouch: true,
+      simulateTouch: false,
+      allowTouchMove: false,
       pagination: {
         el: ".swiper-pagination",
         type: "bullets",
@@ -218,11 +219,13 @@ export default {
       color: rgba(164, 164, 164, 1);
       text-transform: uppercase;
 
-      @media (max-width: 1000px) {
-        font-size: 14px;
+      @media (max-width: 900px) {
+        font-size: 18px;
       }
 
       @media (max-width: 800px) {
+        font-size: 22px;
+        margin-bottom: 32px;
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
