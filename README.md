@@ -4,5 +4,5 @@
 Лендинг для аналитического сервиса "Серп и Молот"
 
 ## Скриншот
-![image](https://images2.imgbox.com/6d/62/rWGd5OEP_o.png)
+![image](https://thumbs2.imgbox.com/a5/ae/y7c5wzq0_t.jpg)
 
