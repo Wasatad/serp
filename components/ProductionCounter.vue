@@ -25,7 +25,7 @@
 <script>
 export default {
   mounted() {
-    let end = new Date("03/01/2023 10:1 AM");
+    let end = new Date("12/30/2023 10:1 AM");
 
     let _second = 1000;
     let _minute = _second * 60;
